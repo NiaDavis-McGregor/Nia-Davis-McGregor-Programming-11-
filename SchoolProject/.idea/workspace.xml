@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5b387631-ce7e-4304-bf0e-1acc0385f013" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="SchoolProject" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1688" />
+    <option name="y" value="359" />
+    <option name="width" value="1696" />
+    <option name="height" value="1026" />
+  </component>
+  <component name="ProjectId" id="1evkAV8oaD2rB45HqNOYw50IbBG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1533331466307" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="SchoolProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b387631-ce7e-4304-bf0e-1acc0385f013" name="Default Changelist" comment="" />
+      <created>1533328870125</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1533328870125</updated>
+      <workItem from="1533328874102" duration="2362000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2362000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="335" y="107" key="#Setter_Template" timestamp="1598142182001">
+      <screen x="42" y="23" width="1398" height="877" />
+    </state>
+    <state x="335" y="107" key="#Setter_Template/42.23.1398.877@42.23.1398.877" timestamp="1598142182001" />
+    <state x="548" y="132" key="#com.intellij.ide.util.MemberChooser" timestamp="1598142191282">
+      <screen x="42" y="23" width="1398" height="877" />
+    </state>
+    <state x="548" y="132" key="#com.intellij.ide.util.MemberChooser/42.23.1398.877@42.23.1398.877" timestamp="1598142191282" />
+    <state x="586" y="337" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1595209875292">
+      <screen x="40" y="23" width="1400" height="877" />
+    </state>
+    <state x="586" y="337" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/40.23.1400.877@40.23.1400.877" timestamp="1595209875292" />
+    <state width="1356" height="230" key="GridCell.Tab.0.bottom" timestamp="1598399502360">
+      <screen x="42" y="23" width="1398" height="877" />
+    </state>
+    <state width="1335" height="217" key="GridCell.Tab.0.bottom/40.23.1400.877@40.23.1400.877" timestamp="1595210624383" />
+    <state width="1356" height="230" key="GridCell.Tab.0.bottom/41.23.1399.877@41.23.1399.877" timestamp="1598143401422" />
+    <state width="1356" height="230" key="GridCell.Tab.0.bottom/42.23.1398.877@42.23.1398.877" timestamp="1598399502360" />
+    <state width="1356" height="230" key="GridCell.Tab.0.center" timestamp="1598399502358">
+      <screen x="42" y="23" width="1398" height="877" />
+    </state>
+    <state width="1335" height="217" key="GridCell.Tab.0.center/40.23.1400.877@40.23.1400.877" timestamp="1595210624382" />
+    <state width="1356" height="230" key="GridCell.Tab.0.center/41.23.1399.877@41.23.1399.877" timestamp="1598143401421" />
+    <state width="1356" height="230" key="GridCell.Tab.0.center/42.23.1398.877@42.23.1398.877" timestamp="1598399502358" />
+    <state width="1356" height="230" key="GridCell.Tab.0.left" timestamp="1598399502358">
+      <screen x="42" y="23" width="1398" height="877" />
+    </state>
+    <state width="1335" height="217" key="GridCell.Tab.0.left/40.23.1400.877@40.23.1400.877" timestamp="1595210624381" />
+    <state width="1356" height="230" key="GridCell.Tab.0.left/41.23.1399.877@41.23.1399.877" timestamp="1598143401420" />
+    <state width="1356" height="230" key="GridCell.Tab.0.left/42.23.1398.877@42.23.1398.877" timestamp="1598399502358" />
+    <state width="1356" height="230" key="GridCell.Tab.0.right" timestamp="1598399502359">
+      <screen x="42" y="23" width="1398" height="877" />
+    </state>
+    <state width="1335" height="217" key="GridCell.Tab.0.right/40.23.1400.877@40.23.1400.877" timestamp="1595210624382" />
+    <state width="1356" height="230" key="GridCell.Tab.0.right/41.23.1399.877@41.23.1399.877" timestamp="1598143401422" />
+    <state width="1356" height="230" key="GridCell.Tab.0.right/42.23.1398.877@42.23.1398.877" timestamp="1598399502359" />
+    <state width="1335" height="269" key="GridCell.Tab.1.bottom" timestamp="1596596125804">
+      <screen x="42" y="23" width="1398" height="877" />
+    </state>
+    <state width="1335" height="269" key="GridCell.Tab.1.bottom/42.23.1398.877@42.23.1398.877" timestamp="1596596125804" />
+    <state width="1335" height="269" key="GridCell.Tab.1.center" timestamp="1596596125799">
+      <screen x="42" y="23" width="1398" height="877" />
+    </state>
+    <state width="1335" height="269" key="GridCell.Tab.1.center/42.23.1398.877@42.23.1398.877" timestamp="1596596125799" />
+    <state width="1335" height="269" key="GridCell.Tab.1.left" timestamp="1596596125798">
+      <screen x="42" y="23" width="1398" height="877" />
+    </state>
+    <state width="1335" height="269" key="GridCell.Tab.1.left/42.23.1398.877@42.23.1398.877" timestamp="1596596125798" />
+    <state width="1335" height="269" key="GridCell.Tab.1.right" timestamp="1596596125802">
+      <screen x="42" y="23" width="1398" height="877" />
+    </state>
+    <state width="1335" height="269" key="GridCell.Tab.1.right/42.23.1398.877@42.23.1398.877" timestamp="1596596125802" />
+    <state x="420" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1597882099203">
+      <screen x="42" y="23" width="1398" height="877" />
+    </state>
+    <state x="420" y="294" key="com.intellij.ide.util.TipDialog/42.23.1398.877@42.23.1398.877" timestamp="1597882099203" />
+    <state x="135" y="84" key="new project wizard" timestamp="1598229548655">
+      <screen x="42" y="23" width="1398" height="877" />
+    </state>
+    <state x="135" y="84" key="new project wizard/42.23.1398.877@42.23.1398.877" timestamp="1598229548655" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
