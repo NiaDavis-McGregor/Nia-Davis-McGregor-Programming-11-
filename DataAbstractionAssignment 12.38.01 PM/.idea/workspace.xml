@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ffe3285e-9a37-421b-b6aa-a586e850fc4b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectId" id="1h1JCtrE3YYOoAiVU43RvieMaJL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534441994050" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RunManager" selected="JUnit.CustomerTest.testDeposit">
+    <configuration name="CustomerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DataAbstractionAssignment" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CustomerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerTest.testDeposit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DataAbstractionAssignment" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CustomerTest" />
+      <option name="METHOD_NAME" value="testDeposit" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerTest.testWithdraw" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DataAbstractionAssignment" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CustomerTest" />
+      <option name="METHOD_NAME" value="testWithdraw" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DepositTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DataAbstractionAssignment" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DepositTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WithdrawTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DataAbstractionAssignment" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WithdrawTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CustomerTest.testDeposit" />
+        <item itemvalue="JUnit.DepositTest" />
+        <item itemvalue="JUnit.WithdrawTest" />
+        <item itemvalue="JUnit.CustomerTest" />
+        <item itemvalue="JUnit.CustomerTest.testWithdraw" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ffe3285e-9a37-421b-b6aa-a586e850fc4b" name="Default Changelist" comment="" />
+      <created>1534438831276</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534438831276</updated>
+      <workItem from="1534438843771" duration="3138000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3138000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="341" y="127" key="#Project_Structure" timestamp="1602607377131">
+      <screen x="39" y="23" width="1401" height="877" />
+    </state>
+    <state x="341" y="127" key="#Project_Structure/39.23.1401.877@39.23.1401.877" timestamp="1602607377131" />
+    <state x="553" y="169" key="#com.intellij.ide.util.MemberChooser" timestamp="1606240787156">
+      <screen x="40" y="23" width="1400" height="877" />
+    </state>
+    <state x="553" y="169" key="#com.intellij.ide.util.MemberChooser/40.23.1400.877@40.23.1400.877" timestamp="1606240787156" />
+    <state x="590" y="357" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1600208781669">
+      <screen x="38" y="23" width="1402" height="877" />
+    </state>
+    <state x="590" y="357" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/38.23.1402.877@38.23.1402.877" timestamp="1600208781669" />
+    <state width="1357" height="374" key="GridCell.Tab.0.bottom" timestamp="1606417616757">
+      <screen x="41" y="23" width="1399" height="877" />
+    </state>
+    <state width="1360" height="374" key="GridCell.Tab.0.bottom/37.23.1403.877@37.23.1403.877" timestamp="1604084687535" />
+    <state width="1360" height="374" key="GridCell.Tab.0.bottom/38.23.1402.877@38.23.1402.877" timestamp="1604694668450" />
+    <state width="1357" height="374" key="GridCell.Tab.0.bottom/39.23.1401.877@39.23.1401.877" timestamp="1605814287214" />
+    <state width="1357" height="374" key="GridCell.Tab.0.bottom/40.23.1400.877@40.23.1400.877" timestamp="1606247112700" />
+    <state width="1357" height="374" key="GridCell.Tab.0.bottom/41.23.1399.877@41.23.1399.877" timestamp="1606417616757" />
+    <state width="1357" height="374" key="GridCell.Tab.0.center" timestamp="1606417616753">
+      <screen x="41" y="23" width="1399" height="877" />
+    </state>
+    <state width="1360" height="374" key="GridCell.Tab.0.center/37.23.1403.877@37.23.1403.877" timestamp="1604084687533" />
+    <state width="1360" height="374" key="GridCell.Tab.0.center/38.23.1402.877@38.23.1402.877" timestamp="1604694668449" />
+    <state width="1357" height="374" key="GridCell.Tab.0.center/39.23.1401.877@39.23.1401.877" timestamp="1605814287212" />
+    <state width="1357" height="374" key="GridCell.Tab.0.center/40.23.1400.877@40.23.1400.877" timestamp="1606247112699" />
+    <state width="1357" height="374" key="GridCell.Tab.0.center/41.23.1399.877@41.23.1399.877" timestamp="1606417616753" />
+    <state width="1357" height="374" key="GridCell.Tab.0.left" timestamp="1606417616752">
+      <screen x="41" y="23" width="1399" height="877" />
+    </state>
+    <state width="1360" height="374" key="GridCell.Tab.0.left/37.23.1403.877@37.23.1403.877" timestamp="1604084687533" />
+    <state width="1360" height="374" key="GridCell.Tab.0.left/38.23.1402.877@38.23.1402.877" timestamp="1604694668448" />
+    <state width="1357" height="374" key="GridCell.Tab.0.left/39.23.1401.877@39.23.1401.877" timestamp="1605814287211" />
+    <state width="1357" height="374" key="GridCell.Tab.0.left/40.23.1400.877@40.23.1400.877" timestamp="1606247112698" />
+    <state width="1357" height="374" key="GridCell.Tab.0.left/41.23.1399.877@41.23.1399.877" timestamp="1606417616752" />
+    <state width="1357" height="374" key="GridCell.Tab.0.right" timestamp="1606417616754">
+      <screen x="41" y="23" width="1399" height="877" />
+    </state>
+    <state width="1360" height="374" key="GridCell.Tab.0.right/37.23.1403.877@37.23.1403.877" timestamp="1604084687534" />
+    <state width="1360" height="374" key="GridCell.Tab.0.right/38.23.1402.877@38.23.1402.877" timestamp="1604694668449" />
+    <state width="1357" height="374" key="GridCell.Tab.0.right/39.23.1401.877@39.23.1401.877" timestamp="1605814287213" />
+    <state width="1357" height="374" key="GridCell.Tab.0.right/40.23.1400.877@40.23.1400.877" timestamp="1606247112700" />
+    <state width="1357" height="374" key="GridCell.Tab.0.right/41.23.1399.877@41.23.1399.877" timestamp="1606417616754" />
+    <state width="1357" height="284" key="GridCell.Tab.1.bottom" timestamp="1605209906926">
+      <screen x="40" y="23" width="1400" height="877" />
+    </state>
+    <state width="1357" height="284" key="GridCell.Tab.1.bottom/40.23.1400.877@40.23.1400.877" timestamp="1605209906926" />
+    <state width="1357" height="284" key="GridCell.Tab.1.center" timestamp="1605209906925">
+      <screen x="40" y="23" width="1400" height="877" />
+    </state>
+    <state width="1357" height="284" key="GridCell.Tab.1.center/40.23.1400.877@40.23.1400.877" timestamp="1605209906925" />
+    <state width="1357" height="284" key="GridCell.Tab.1.left" timestamp="1605209906924">
+      <screen x="40" y="23" width="1400" height="877" />
+    </state>
+    <state width="1357" height="284" key="GridCell.Tab.1.left/40.23.1400.877@40.23.1400.877" timestamp="1605209906924" />
+    <state width="1357" height="284" key="GridCell.Tab.1.right" timestamp="1605209906925">
+      <screen x="40" y="23" width="1400" height="877" />
+    </state>
+    <state width="1357" height="284" key="GridCell.Tab.1.right/40.23.1400.877@40.23.1400.877" timestamp="1605209906925" />
+    <state x="229" y="43" key="SettingsEditor" timestamp="1601934089062">
+      <screen x="39" y="23" width="1401" height="877" />
+    </state>
+    <state x="229" y="43" key="SettingsEditor/39.23.1401.877@39.23.1401.877" timestamp="1601934089062" />
+    <state x="229" y="43" key="SettingsEditor/40.23.1400.877@40.23.1400.877" timestamp="1601933896888" />
+    <state x="421" y="293" key="com.intellij.ide.util.TipDialog" timestamp="1606327948733">
+      <screen x="41" y="23" width="1399" height="877" />
+    </state>
+    <state x="420" y="294" key="com.intellij.ide.util.TipDialog/40.23.1400.877@40.23.1400.877" timestamp="1606240744744" />
+    <state x="421" y="293" key="com.intellij.ide.util.TipDialog/41.23.1399.877@41.23.1399.877" timestamp="1606327948733" />
+    <state x="444" y="362" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1601934083698">
+      <screen x="39" y="23" width="1401" height="877" />
+    </state>
+    <state x="444" y="362" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/39.23.1401.877@39.23.1401.877" timestamp="1601934083698" />
+    <state x="444" y="362" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/40.23.1400.877@40.23.1400.877" timestamp="1601933895529" />
+    <state x="407" y="213" width="670" height="158" key="search.everywhere.popup" timestamp="1606246770168">
+      <screen x="40" y="23" width="1400" height="877" />
+    </state>
+    <state x="406" y="213" width="670" height="58" key="search.everywhere.popup/39.23.1401.877@39.23.1401.877" timestamp="1602607671368" />
+    <state x="407" y="213" width="670" height="158" key="search.everywhere.popup/40.23.1400.877@40.23.1400.877" timestamp="1606246770168" />
+  </component>
+</project>
