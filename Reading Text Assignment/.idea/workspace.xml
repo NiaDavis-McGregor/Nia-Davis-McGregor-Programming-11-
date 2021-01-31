@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2cb97006-5931-4f8f-b2eb-92d8b983c493" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nOkLj4Pkh1dVO2HVFFfqKAZx98" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/.idea" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Reading Text Assignment" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScannerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ScannerApp" />
+      <module name="Reading Text Assignment" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ScannerApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2cb97006-5931-4f8f-b2eb-92d8b983c493" name="Default Changelist" comment="" />
+      <created>1611268471167</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611268471167</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="553" y="178" key="#com.intellij.ide.util.MemberChooser" timestamp="1611601063281">
+      <screen x="40" y="23" width="1400" height="877" />
+    </state>
+    <state x="553" y="178" key="#com.intellij.ide.util.MemberChooser/40.23.1400.877@40.23.1400.877" timestamp="1611601063281" />
+    <state x="478" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1611600574044">
+      <screen x="40" y="23" width="1400" height="877" />
+    </state>
+    <state x="478" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/40.23.1400.877@40.23.1400.877" timestamp="1611600574044" />
+    <state width="1357" height="204" key="GridCell.Tab.0.bottom" timestamp="1612058791156">
+      <screen x="37" y="23" width="1403" height="877" />
+    </state>
+    <state width="1357" height="204" key="GridCell.Tab.0.bottom/37.23.1403.877@37.23.1403.877" timestamp="1612058791156" />
+    <state width="1357" height="230" key="GridCell.Tab.0.bottom/38.23.1402.877@38.23.1402.877" timestamp="1612044794186" />
+    <state width="1357" height="230" key="GridCell.Tab.0.bottom/39.23.1401.877@39.23.1401.877" timestamp="1611946520210" />
+    <state width="1357" height="230" key="GridCell.Tab.0.bottom/40.23.1400.877@40.23.1400.877" timestamp="1611605688290" />
+    <state width="1357" height="204" key="GridCell.Tab.0.center" timestamp="1612058791154">
+      <screen x="37" y="23" width="1403" height="877" />
+    </state>
+    <state width="1357" height="204" key="GridCell.Tab.0.center/37.23.1403.877@37.23.1403.877" timestamp="1612058791154" />
+    <state width="1357" height="230" key="GridCell.Tab.0.center/38.23.1402.877@38.23.1402.877" timestamp="1612044794185" />
+    <state width="1357" height="230" key="GridCell.Tab.0.center/39.23.1401.877@39.23.1401.877" timestamp="1611946520208" />
+    <state width="1357" height="230" key="GridCell.Tab.0.center/40.23.1400.877@40.23.1400.877" timestamp="1611605688289" />
+    <state width="1357" height="204" key="GridCell.Tab.0.left" timestamp="1612058791153">
+      <screen x="37" y="23" width="1403" height="877" />
+    </state>
+    <state width="1357" height="204" key="GridCell.Tab.0.left/37.23.1403.877@37.23.1403.877" timestamp="1612058791153" />
+    <state width="1357" height="230" key="GridCell.Tab.0.left/38.23.1402.877@38.23.1402.877" timestamp="1612044794184" />
+    <state width="1357" height="230" key="GridCell.Tab.0.left/39.23.1401.877@39.23.1401.877" timestamp="1611946520208" />
+    <state width="1357" height="230" key="GridCell.Tab.0.left/40.23.1400.877@40.23.1400.877" timestamp="1611605688289" />
+    <state width="1357" height="204" key="GridCell.Tab.0.right" timestamp="1612058791155">
+      <screen x="37" y="23" width="1403" height="877" />
+    </state>
+    <state width="1357" height="204" key="GridCell.Tab.0.right/37.23.1403.877@37.23.1403.877" timestamp="1612058791155" />
+    <state width="1357" height="230" key="GridCell.Tab.0.right/38.23.1402.877@38.23.1402.877" timestamp="1612044794185" />
+    <state width="1357" height="230" key="GridCell.Tab.0.right/39.23.1401.877@39.23.1401.877" timestamp="1611946520209" />
+    <state width="1357" height="230" key="GridCell.Tab.0.right/40.23.1400.877@40.23.1400.877" timestamp="1611605688290" />
+    <state width="1357" height="285" key="GridCell.Tab.1.bottom" timestamp="1612055605805">
+      <screen x="37" y="23" width="1403" height="877" />
+    </state>
+    <state width="1357" height="285" key="GridCell.Tab.1.bottom/37.23.1403.877@37.23.1403.877" timestamp="1612055605805" />
+    <state width="1357" height="285" key="GridCell.Tab.1.center" timestamp="1612055605803">
+      <screen x="37" y="23" width="1403" height="877" />
+    </state>
+    <state width="1357" height="285" key="GridCell.Tab.1.center/37.23.1403.877@37.23.1403.877" timestamp="1612055605803" />
+    <state width="1357" height="285" key="GridCell.Tab.1.left" timestamp="1612055605799">
+      <screen x="37" y="23" width="1403" height="877" />
+    </state>
+    <state width="1357" height="285" key="GridCell.Tab.1.left/37.23.1403.877@37.23.1403.877" timestamp="1612055605799" />
+    <state width="1357" height="285" key="GridCell.Tab.1.right" timestamp="1612055605804">
+      <screen x="37" y="23" width="1403" height="877" />
+    </state>
+    <state width="1357" height="285" key="GridCell.Tab.1.right/37.23.1403.877@37.23.1403.877" timestamp="1612055605804" />
+    <state x="228" y="43" key="SettingsEditor" timestamp="1611601119861">
+      <screen x="40" y="23" width="1400" height="877" />
+    </state>
+    <state x="228" y="43" key="SettingsEditor/40.23.1400.877@40.23.1400.877" timestamp="1611601119861" />
+    <state x="417" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1611599672399">
+      <screen x="40" y="23" width="1400" height="877" />
+    </state>
+    <state x="417" y="294" key="com.intellij.ide.util.TipDialog/40.23.1400.877@40.23.1400.877" timestamp="1611599672399" />
+  </component>
+</project>
