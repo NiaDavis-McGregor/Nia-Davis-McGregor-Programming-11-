@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.control.Tab?>
+<?import javafx.scene.control.TabPane?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<TabPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" tabClosingPolicy="UNAVAILABLE" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+  <tabs>
+    <Tab text="Untitled Tab 1">
+      <content>
+        <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+               <children>
+                  <HBox alignment="CENTER" layoutX="1.0" layoutY="3.0" prefHeight="365.0" prefWidth="600.0">
+                     <children>
+                        <VBox prefHeight="365.0" prefWidth="417.0">
+                           <children>
+                              <HBox alignment="BOTTOM_CENTER" prefHeight="65.0" prefWidth="417.0">
+                                 <children>
+                                    <Label text="First Number:">
+                                       <padding>
+                                          <Insets bottom="5.0" />
+                                       </padding>
+                                    </Label>
+                                    <Label fx:id="labelFirstNumber">
+                                       <padding>
+                                          <Insets bottom="5.0" left="5.0" right="5.0" />
+                                       </padding>
+                                    </Label>
+                                    <Button fx:id="buttonGetNumber" mnemonicParsing="false" onAction="#getFirstNumber" text="Get Number" />
+                                 </children>
+                              </HBox>
+                              <HBox alignment="CENTER" prefHeight="41.0" prefWidth="417.0">
+                                 <children>
+                                    <Button fx:id="buttonAddNumber" disable="true" mnemonicParsing="false" onAction="#addNumber" text="Add Number (1-20)?" />
+                                    <Label fx:id="labelAddedNumber">
+                                       <padding>
+                                          <Insets left="5.0" right="5.0" />
+                                       </padding>
+                                    </Label>
+                                    <Label text="New Score:" />
+                                    <Label fx:id="labelNewScore">
+                                       <HBox.margin>
+                                          <Insets left="5.0" />
+                                       </HBox.margin>
+                                    </Label>
+                                 </children>
+                              </HBox>
+                              <HBox alignment="CENTER" prefHeight="39.0" prefWidth="417.0">
+                                 <children>
+                                    <Button fx:id="buttonDone" disable="true" mnemonicParsing="false" onAction="#stopAddingNumbers" text="DONE" />
+                                 </children>
+                              </HBox>
+                              <HBox alignment="CENTER" prefHeight="37.0" prefWidth="417.0">
+                                 <children>
+                                    <Label fx:id="labelYouLost" textFill="RED">
+                                       <padding>
+                                          <Insets right="5.0" />
+                                       </padding>
+                                       <font>
+                                          <Font size="14.0" />
+                                       </font>
+                                    </Label>
+                                    <Label text="Final Score:" />
+                                    <Label fx:id="labelFinalScore">
+                                       <padding>
+                                          <Insets left="5.0" />
+                                       </padding>
+                                    </Label>
+                                 </children>
+                              </HBox>
+                              <HBox alignment="CENTER" prefHeight="48.0" prefWidth="414.0">
+                                 <children>
+                                    <Label prefHeight="17.0" prefWidth="274.0" text="Now you can put your score on the leaderboard or" />
+                                    <Button fx:id="buttonPlayAgain" disable="true" mnemonicParsing="false" onAction="#playAgain" prefHeight="27.0" prefWidth="90.0" text="PLAY AGAIN" />
+                                 </children>
+                              </HBox>
+                           </children>
+                        </VBox>
+                     </children>
+                  </HBox>
+               </children></AnchorPane>
+      </content>
+    </Tab>
+    <Tab text="Leaderboard">
+      <content>
+        <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+               <children>
+                  <HBox alignment="CENTER" layoutX="-2.0" prefHeight="364.0" prefWidth="600.0">
+                     <children>
+                        <VBox alignment="CENTER" prefHeight="364.0" prefWidth="326.0">
+                           <children>
+                              <ListView fx:id="scoreboardList" prefHeight="273.0" prefWidth="178.0">
+                                 <padding>
+                                    <Insets left="10.0" right="10.0" />
+                                 </padding>
+                              </ListView>
+                           </children>
+                        </VBox>
+                        <VBox alignment="CENTER" prefHeight="364.0" prefWidth="90.0">
+                           <children>
+                              <TextField fx:id="textPlayerName" promptText="Name" />
+                              <TextField fx:id="textScore" promptText="Score">
+                                 <VBox.margin>
+                                    <Insets bottom="5.0" top="5.0" />
+                                 </VBox.margin>
+                              </TextField>
+                              <TextField fx:id="textDate" promptText="Date" />
+                           </children>
+                           <HBox.margin>
+                              <Insets left="10.0" right="10.0" />
+                           </HBox.margin>
+                        </VBox>
+                        <VBox alignment="CENTER" prefHeight="200.0" prefWidth="100.0">
+                           <children>
+                              <Button fx:id="buttonSubmitScore" mnemonicParsing="false" onAction="#submitScore" text="Submit Score">
+                                 <VBox.margin>
+                                    <Insets bottom="5.0" />
+                                 </VBox.margin>
+                              </Button>
+                              <Button fx:id="buttonSaveScore" mnemonicParsing="false" onAction="#saveScore" text="Save Scores">
+                                 <VBox.margin>
+                                    <Insets bottom="5.0" />
+                                 </VBox.margin>
+                              </Button>
+                              <Button fx:id="buttonLoadScore" mnemonicParsing="false" onAction="#loadScore" text="Load Scores" />
+                           </children>
+                        </VBox>
+                     </children>
+                  </HBox>
+               </children></AnchorPane>
+      </content>
+    </Tab>
+  </tabs>
+</TabPane>
